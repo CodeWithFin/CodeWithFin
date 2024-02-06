@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on Machine Learning with Tensorflow<br>⚡ Fun fact I find sushi overrated
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fin.ley__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finley mwachia) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/finny_215) 
@@ -13,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nader215&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nader215&limit=5&theme=dark&combine_all_yearly_contributions=true)
