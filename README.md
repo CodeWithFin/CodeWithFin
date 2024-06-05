@@ -15,6 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nader215&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nader215&bg_color=0f0000&color=f3f1f1&line=f7f3f7&point=fdf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 [![](https://visitcount.itsvg.in/api?id=Nader215&icon=0&color=0)](https://visitcount.itsvg.in)
 
