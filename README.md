@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently diving deep into fullstack development with JavaScript.<br><br>🌱 I’m currently exploring the elegant simplicity of Crystal.<br><br>💬 Ask me about the epic lore and battles of Attack On Titan.<br><br>⚡ Fun fact: Itachi was the good guy!
+🔭 I’m currently going into fullstack development with JavaScript.<br><br>🌱 I’m currently exploring the elegant simplicity of Crystal.<br><br>💬 Ask me about the epic lore and battles of Attack On Titan.<br><br>⚡ Fun fact: Itachi was the good guy!
 
 
 ## 🌐 Socials:
