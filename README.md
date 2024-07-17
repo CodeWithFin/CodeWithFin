@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web3 & Blockchain. <br><br>🌱 I’m currently learning Javascript full-stack. <br><br>❓ Ask me about anything related to Attack On Titan. <br><br>⚡ Fun fact: Itachi was the good guy!
+🔭 I’m currently working on Web3 & Blockchain. <br><br>🌱 I’m currently learning Javascript full-stack. <br><br>❓ Ask me about anything related to Attack On Titan. <br><br>⚡ Fun fact: Itachi was the good guy!!!
 
 
 ## 🌐 Socials:
