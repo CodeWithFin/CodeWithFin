@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Leaning BlockChain Management<br><br>👨‍💻 All of my projects are available at https://github.com/CodeWithFin?tab=repositories<br><br>📫 How to reach me finley.mwachia12@gmail.com<br><br>⚡ Fun fact : GOT Season 8 was crap!
+🌱 I’m currently Leaning BlockChain Management.. <br><br>👨‍💻 All of my projects are available at https://github.com/CodeWithFin?tab=repositories<br><br>📫 How to reach me finley.mwachia12@gmail.com<br><br>⚡ Fun fact : GOT Season 8 was crap!
 
 
 ## 🌐 Socials:
