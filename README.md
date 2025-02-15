@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently Learning BlockChain Management..<br><br>👨‍💻 All of my projects are available at https://github.com/CodeWithFin?tab=repositories<br><br>📫 How to reach me finley.mwachia12@gmail.com<br><br>⚡ Fun fact : Itachi Was the Good Guy!!
+🌱 I’m currently Learning BlockChain Management..<br><br>👨‍💻 All of my projects are available at https://github.com/CodeWithFin?tab=repositories<br><br>📫 How to reach me finley.mwachia12@gmail.com<br><br>⚡ Fun fact : Itachi Was the Good Guy!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fin.ley__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finley-mwachia) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@naderr__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pafamy) 
 
